@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Define global visual tokens and brand typography in `src/styles.css`; keep the Talenzziaa homepage content in `src/routes/index.tsx` so the single-screen event experience shares one consistent, maintainable design system.
